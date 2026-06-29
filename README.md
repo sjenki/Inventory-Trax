@@ -37,12 +37,14 @@ Originally developed as part of a graduate Python programming course, this proje
 ## Skills Demonstrated
 
 - Python Programming
+- Menu-Driven Application Development
 - CRUD Operations
-- Data Structures
-- Function-Based Programming
-- User Input Handling
-- Problem Solving
-- Inventory Tracking Logic
+- Functions
+- Lists & Dictionaries
+- Conditional Logic
+- Loops
+- User Input Validation
+- Inventory Management Logic
 
 ---
 
